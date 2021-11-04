@@ -2,4 +2,11 @@ body {
 	background-image: url("TCU2.png");
 	background-repeat: no-repeat;
    	background-size: 99%;
+	position: absolute;
+    left: 100
+px
+;
+    top: 75
+px
+;
 	}
